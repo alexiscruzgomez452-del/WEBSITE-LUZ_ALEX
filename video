@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="icon" href="logo.PNG" type="image/jfif">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBSITE CECyMagic </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+    .card-img-top{
+        height: 700px;
+        object-fit: cover;
+    }
+     .card{
+        height: 100%;
+     }
+
+     h1{
+        color: #0d0b0b;
+     }
+
+     p{
+        color: #09090a;
+        text-align: justify;
+        font-family:  Arial, sans-serif;
+     }
+    </style> 
+</head>
+ 
+<body>
+        <div class="container text-center my-5">
+        <h1>RINCONSITOS DE VALLE DE BRAVO</h1>
+        <h2 style="color: #a70c6c;">RECORRIENDO VALLE</h2>
+        </div>
+
+        <div class="container my-5">
+        <div class="row g-4">
+
+        <div class="col-md-12">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            CINE </h5>
+            <p class="card-text">
+            El cine en Valle de Bravo, Estado de mexico, es una opcion de entretenimiento para los habitantes  y visitantes del municipio.
+            </p>
+            <p class="card-text">
+           Las  salas de cine permiten disfrutar de peliculas dediferentes generos, como accion, comedia, terror, romance y animacion, en un espacio con pantalla grande y sonido envolvente.
+            </p>
+            <p class="card-text">
+          Ademas de ser un lugar divertido con amigos y familia, el cine es una forma de expresion artistica y cultural, por que las peliculas cuentan historias, muestran distintas costumbres y transmiten mensajes sobre sociedad.
+
+            </p>
+            <p class="ccar_text">
+           En Valle de Bravo el cine representa una alternativa creativa tanto para los habitantes del municipio como para los turistas que visitan este destino.
+            </p>
+            <img src="dulceria.jpeg"
+           class="card-img-top"
+           alt="Imagen 1">
+        </div>
+        </div>
+        </div>
+
+         <div class="col-md-6">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+             CHIQUITILANDIA</h5>
+            <p class="card-text">
+            Ea un parque publico infantil de Valle de Bravo, creado para las niñas y niños para que tengan un lugar dedicado al juego, la recreacion y la convivencia.
+            </p>
+            <p class="card-text">
+            Son espacios que buscan falisitar que niños con distintas capacidades puedan participar en actividades recreativas.
+            </p>
+            <p class="card-text">
+            Este parque  es inportante para la comunidad por que ofrece a la niñez un espacio publico para divertirse,convivir y aprender.
+        
+            </p>
+            <p class="card-text">
+            
+            </p>
+            <p class="card-text">
+            
+            </p>
+            <img src="parque.jpeg"
+           class="card-img-top"
+           alt="Imagen 2">
+            <p class="card-text">
+            </p>
+            <p class="card-text">
+            
+            </p>
+            <p class="card-text">
+           
+            </p>
+            <p class="card-text">
+            
+            </p>
+        </div>
+        </div>
+        </div>
+
+         <div class="col-md-6">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            CHIQUITILANDIA </h5>
+
+
+
+            <video controls>
+        <source src="luz.mp4" type="video/mp4">
+      </video>
+        </div>
+        </div>
+        </div>
+         
+        </div>
+        </div>
+
+
+
+
+</body>
+</html>
